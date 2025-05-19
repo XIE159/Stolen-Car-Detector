@@ -185,5 +185,5 @@ See [requirements.txt](requirements.txt) for the full list. Key packages include
 For questions or support:
 - Open an issue
 - Submit a pull request
-- Email: sameerrizwanf23@nutech.edu.pk
 - Email: xie19113@gmail.com
+- Email: sameerrizwanf23@nutech.edu.pk
